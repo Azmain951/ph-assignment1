@@ -15,6 +15,10 @@ p{
     margin-bottom: 30px;
 }
 
+.theme-color{
+    color:cornflowerblue;
+}
+
 .hero-section{
     margin-left: 8%;
 }
@@ -37,10 +41,6 @@ p{
     border-radius: 5px;
 }
 
-.theme-color{
-    color:cornflowerblue;
-}
-
 .section-gap{
     margin-bottom: 100px;
 }
@@ -61,7 +61,6 @@ p{
     border-radius: 5px;
     background-color: rgb(27, 112, 223);
 }
-
 
 .mission-title{
     font-size: 48px;
@@ -119,6 +118,27 @@ p{
 
 .develop-item2{
     margin-left: -220px;
+}
+
+#ph-sec{
+    background-image: url(images/shapes/shape-7.png);
+    background-repeat: no-repeat;
+    background-position: right bottom;
+    background-size: 10%;
+}
+
+#com-sec{
+    background-image: url(images/shapes/shape-6.png);
+    background-repeat: no-repeat;
+    background-position: top left;
+    background-size: 10%;
+}
+
+#dev-sec{
+    background-image: url(images/shapes/shape-8.png);
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-size: 10%;
 }
 
 footer{
