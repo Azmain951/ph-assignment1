@@ -123,12 +123,11 @@ p{
 
 .ph-section{
     margin-left: 8%;  
+    border-radius: 15px;  
 }
 
 .ph-section img{
-    width: 65%;
-    border-radius: 15px;
-    
+    width: 65%; 
 }
 
 footer{
