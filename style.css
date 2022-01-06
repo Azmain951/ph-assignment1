@@ -111,13 +111,6 @@ p{
     width: 65%;
 }
 
-#dev-sec{
-    background-image: url(images/shapes/shape-1.png);
-    background-repeat: no-repeat;
-    background-size: 15%;
-    background-position: left;
-}
-
 .develop-section p{
     padding-right: 50px;
     margin-bottom: 30px;
@@ -127,11 +120,15 @@ p{
     margin-left: -220px;
 }
 
-#com-sec{
-    background-image: url(images/shapes/shape-1.png);
-    background-repeat: no-repeat;
-    background-size: 15%;
-    background-position: right bottom;
+
+.ph-section{
+    margin-left: 8%;  
+}
+
+.ph-section img{
+    width: 65%;
+    border-radius: 15px;
+    
 }
 
 footer{
